@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matcauthon49
+- 👋 Hi, I’m Naman Kumar
 - 👀 I’m interested in cryptography and information security, but also generally anything related to graph algorithms.
 - 🌱 I’m currently learning how to simulate pursuit-evasion games.
 - 💞️ I’m looking to collaborate on nothing in particular, but I'm always interested in learning new things.
