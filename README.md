@@ -1,4 +1,4 @@
-2nd year double major in Math and Computer Science at Chennai Mathematical Institute. I'm interested in cryptography and more generally anything complexity related. Working on statistical analysis using Julia and implementations of academic prototypes in cryptography.
+2nd year double major in Math and Computer Science at Chennai Mathematical Institute. I'm interested in cryptography and more generally anything complexity related. Working on implementations of academic prototypes in cryptography.
 
 Ping me at namankumar@cmi.ac.in or namankr02@gmail.com to discuss computer science or just chat. 
 <!---
